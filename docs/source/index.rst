@@ -1,3 +1,4 @@
+Lumache hosts its documentation on Read the Docs.
 Welcome to Lumache's documentation!
 ===================================
 
